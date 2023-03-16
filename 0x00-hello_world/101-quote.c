@@ -3,9 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: A c program that prints a line to the standard error
- *
- * Retrun Always 1 (Success)
+ * Retrun: Always 1 (Success)
  */
 int main(void)
 {
